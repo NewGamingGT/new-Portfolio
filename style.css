@@ -53,7 +53,6 @@ h2 {
     margin-top: 60px;
     width: 90%;
     height: 100%;
-    position: relative;
 }
 
 .image {
@@ -119,7 +118,6 @@ img {
     .leftContainer, .rightContainer {
         float: none;
         width: 100%;
-
     }
 
     .rightContainer h1 {

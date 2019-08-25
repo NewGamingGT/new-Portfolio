@@ -1,27 +1,27 @@
 {
     "Minimalist Calculator": {
-        "img": "/gif/MinimalistCalculator.gif",
+        "img": "MinimalistCalculator.gif",
         "title": "Minimalist Calculator",
         "description": "HTML CSS JS",
         "link": "https://newgaminggt.github.io/minimalistCalculator/"
     },
 
     "image2": {
-        "img": "/gif/Hangman.gif",
+        "img": "Hangman.gif",
         "title": "Hangman",
         "description": "Python",
         "link": "https://github.com/NewGamingGT/hangman"
     },
 
     "image3": {
-        "img": "/gif/RocketGame.gif",
+        "img": "RocketGame.gif",
         "title": "Rocket Game",
         "description": "Unity C#",
         "link": "https://newgaminggt.github.io/ProjectBoostGame/"
     },
 
     "image4": {
-        "img": "/gif/TowerDefence.gif",
+        "img": "TowerDefence.gif",
         "title": "Tower Defence",
         "description": "Unity C#",
         "link": "https://newgaminggt.github.io/Realm-Rush-Game/"

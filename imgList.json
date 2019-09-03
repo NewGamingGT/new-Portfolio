@@ -31,14 +31,14 @@
         "img": "ColorBlock.gif",
         "title": "Color Block",
         "description": "Unity C#",
-        "link": "https://newgaminggt.github.io/ColorBlockGame/index.html"
+        "link": "https://newgaminggt.github.io/ColorBlockGame/"
     },
 
     "image6": {
-        "img": "https://picsum.photos/1920/1080",
-        "title": "Minimalist",
-        "description": "Hello world",
-        "link": "#"
+        "img": "PreviousPortfolio.gif",
+        "title": "Previous Protfolio website",
+        "description": "HTML CSS JS",
+        "link": "https://pportfolio.netlify.com/home.html"
     }
 
 }

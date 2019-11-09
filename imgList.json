@@ -39,6 +39,13 @@
         "title": "Previous Protfolio website",
         "description": "HTML CSS JS",
         "link": "https://pportfolio.netlify.com/home.html"
+    },
+
+    "image7": {
+        "img": "CookingDiary.gif",
+        "title": "Cooking Diary",
+        "description":"HTML CSS JS SCSS Python Flask",
+        "link": "https://github.com/NewGamingGT/CookingDiary"
     }
 
 }

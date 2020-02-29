@@ -54,5 +54,12 @@
         "description": "HTML CSS Python Flask",
         "link": "https://github.com/NewGamingGT/PictureSearch"
     }
+    
+    "image9": {
+        "img": "LeagueGamePrediction.gif",
+        "title": "League Game Prediction",
+        "description": "HTML CSS JS Python Flask Scikit-Learn Pandas Numpy Matplotlib Seaborn JupyterNotebook",
+        "link": "https://github.com/NewGamingGT/League-Game-Prediction-Project"
+    }
 
 }

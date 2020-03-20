@@ -55,4 +55,11 @@
         "link": "https://github.com/NewGamingGT/League-Game-Prediction-Website"
     }
 
+    "image9": {
+        "img": "AIPrediction.gif",
+        "title": "AI Prediction",
+        "description": "HTML CSS JS Python Flask Scikit-Learn Pandas Numpy Matplotlib",
+        "link": "https://github.com/NewGamingGT/League-Game-Prediction-Website"
+    }
+
 }
